@@ -1,5 +1,5 @@
 package com.yiduofar.serviceplatform.domain;
-
+//123456
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableId;
@@ -12,7 +12,7 @@ import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 /**
- * 
+ *
  * @TableName user_team
  */
 @TableName(value ="user_team")
